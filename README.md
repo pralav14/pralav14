@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Pralav Jha</h1>
 <h3 align="center">Aspiring Data Engineer | SQL | DSA </h3>
