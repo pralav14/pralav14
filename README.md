@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Pralav Jha</h1>
-<h3 align="center">Aspiring Data Engineer | SQL | DSA | MERN</h3>
+<h3 align="center">Aspiring Data Engineer | SQL | DSA </h3>
 
 ---
 
@@ -9,12 +9,12 @@
 - 🎓 3rd Year CSE Student  
 - 💻 Solved 500+ DSA problems  
 - 📊 Interested in Data Engineering  
-- 🌱 Currently learning Advanced SQL & MERN  
+- 🌱 Currently learning Advanced SQL & ETL pipelines  
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: C, C++, Java  
+- 💻 Languages: C, C++, Java  ,Javascript, Python
 - 🗄️ Database: MySQL, PostgreSQL  
 - 📊 Tools: Excel, Git, GitHub, DBeaver  
 
