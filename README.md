@@ -31,7 +31,7 @@
 ---
 
 ### 📈 Top Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pralav14&layout=compact&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,postgresql,git,github" />
 
 ---
 
